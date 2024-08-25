@@ -1,10 +1,11 @@
 <img src="https://t3.ftcdn.net/jpg/07/32/10/90/360_F_732109080_4lXwGofazqAiysUpcCnrbflsNOl9EMdW.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
-10+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
+Hi there! I’m a junior developer with a strong passion for technology and programming. My interest started in 2022, and since then, I’ve been having a great time exploring the world of development.
+Programming is something I genuinely enjoy doing, not just a job.
 
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Currently, I’m experienced with Firebase Realtime Database  and learning Java <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> I’m also working with Kotlin <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> and have a strong interest in Python.
 
-Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
+I’m always excited to learn new things and tackle new challenges. If you have an interesting project or just want to chat about technology, feel free to reach out!
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
