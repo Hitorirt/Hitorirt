@@ -1,6 +1,6 @@
 <img src="https://t3.ftcdn.net/jpg/07/32/10/90/360_F_732109080_4lXwGofazqAiysUpcCnrbflsNOl9EMdW.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
-Hi there! I’m a junior developer with a strong passion for technology and programming. My interest started in 2022, and since then, I’ve been having a great time exploring the world of development.
+<h1> Hi there!</h1> I’m a junior developer with a strong passion for technology and programming. My interest started in 2022, and since then, I’ve been having a great time exploring the world of development.
 Programming is something I genuinely enjoy doing, not just a job.
 
 Currently, I’m experienced with Firebase Realtime Database  and learning Java. I’m also working with Kotlin. and have a strong interest in Python.
