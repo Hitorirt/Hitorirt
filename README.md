@@ -11,7 +11,7 @@ I’m always excited to learn new things and tackle new challenges. If you have 
 <p>
   <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://camo.githubusercontent.com/69aa4c0504930e8ae0b89332cd45436b67c8842992bc55ad11d2f67bac4eaa64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-Enthusiast-_.svg?logo=kotlin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-Enthusiast-_.svg?logo=python"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
 </p>
