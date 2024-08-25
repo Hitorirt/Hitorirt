@@ -3,7 +3,7 @@
 Hi there! I’m a junior developer with a strong passion for technology and programming. My interest started in 2022, and since then, I’ve been having a great time exploring the world of development.
 Programming is something I genuinely enjoy doing, not just a job.
 
-Currently, I’m experienced with Firebase Realtime Database  and learning Java <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> I’m also working with Kotlin <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> and have a strong interest in Python.
+Currently, I’m experienced with Firebase Realtime Database  and learning Java <img src=src="https://img.shields.io/badge/-_.svg?logo=kotlin" alt="" height="20"> I’m also working with Kotlin <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> and have a strong interest in Python.
 
 I’m always excited to learn new things and tackle new challenges. If you have an interesting project or just want to chat about technology, feel free to reach out!
 
