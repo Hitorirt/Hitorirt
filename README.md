@@ -1,4 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/07/32/10/90/360_F_732109080_4lXwGofazqAiysUpcCnrbflsNOl9EMdW.jpg"
+<img src="https://t3.ftcdn.net/jpg/07/32/10/90/360_F_732109080_4lXwGofazqAiysUpcCnrbflsNOl9EMdW.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
 10+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
 
